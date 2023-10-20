@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en_US">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <title>source management links (open.source)</title>
+  <link rel="stylesheet" type="text/css" href="css.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.js" integrity="sha512-klc+qN5PPscoGxSzFpetVsCr9sryi2e2vHwZKq43FdFyhSAa7vAqog/Ifl8tzg/8mBZiG2MAKhyjH5oPJp65EA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
+  <script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/sass.js/0.11.1/sass.min.js" integrity="sha512-/F8YhC3n5OrM9ta9htMD620kH0paKnjDHCHcSvyWumxlqsnkS/XCpYExuMZuXE4K3GE9tDQFBqgXsmkjsjRbDQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css" />
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVXW3D3"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){ /*microsoft.clarity*/
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "gkcy7etgj8");
+</script>
+<style type="text/css"></style>
+</style>
+</head>
+<body>
+    
+</body>
+</html>
